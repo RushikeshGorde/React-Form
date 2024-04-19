@@ -62,7 +62,7 @@ export default function PreviewData() {
         <div className='data'>
           <h3 className='text-center'>Personal Details</h3>
           {/* Check if userData.profile is correctly set */}
-          {userData.profile && <img src={userData.profile} alt="Profile" />}
+          {userData.profile && <img className='ig' src={userData.profile} alt="Profile" />}
           {/* Display the image if userData.profile is not empty */}
           <p><strong>First Name:</strong> {userData.firstname}</p>
           <p><strong>Middle Name:</strong> {userData.middlename}</p>

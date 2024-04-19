@@ -40,6 +40,10 @@ height: 75%;
  
 
 }
+.ig{
+  height: 80px;
+  width: 80px;
+}
 .preview{
   width: 600px;
   display: flex;
