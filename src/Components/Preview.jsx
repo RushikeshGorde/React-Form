@@ -89,15 +89,18 @@ export default function PreviewData() {
       </div>
       <br />
       {/* Download button for the PDF */}
+      <button className='pd btn btn-outline-dark'>
+
       <PDFDownloadLink document={PDFDocument} fileName="UserData.pdf">
         {({ loading }) =>
           loading ? 'Loading document...' : 'Download PDF'
         }
       </PDFDownloadLink>
+      </button>
       <br />
       {/* Submit button */}
       <Button variant="contained" onClick={() => setStep(3)} color="secondary">Edit</Button>
-      <Button variant="contained" onClick={submitData} color="primary">Submit</Button>
+      
     </div>
   );
 }
