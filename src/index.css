@@ -36,16 +36,18 @@ height: 75%;
   height: 100vh;
 }
 .three{
-  height: 120vh;
-  width: 100vh;
+  height: 100vh;
+ 
 
 }
 .preview{
   width: 600px;
   display: flex;
   justify-content: center;
-  box-shadow: 2px 2px 2px 2px rgb(10, 69, 117);
+  box-shadow: 2px 2px 2px 2px #0a4575;
   align-items: center;
+  position: absolute;
+  top: 20%;
 }
 .pernal-2, .Educat {
 
