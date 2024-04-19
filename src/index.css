@@ -40,6 +40,13 @@ height: 75%;
   width: 100vh;
 
 }
+.preview{
+  width: 600px;
+  display: flex;
+  justify-content: center;
+  box-shadow: 2px 2px 2px 2px rgb(10, 69, 117);
+  align-items: center;
+}
 .pernal-2, .Educat {
 
     width: 35%;

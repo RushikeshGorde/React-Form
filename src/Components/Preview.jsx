@@ -57,8 +57,8 @@ export default function PreviewData() {
     <div className='perdet three'>
       {/* Display the profile image */}
       {/* <img src={userData.profile} alt="Profile" style={styles.image} /> */}
-      <div className="preview">
-      <h2>Preview Data</h2>
+      <div className="preview  shadow-lg p-3 mb-5 bg-transperent rounded">
+        <h2>Preview Data</h2>
         <div className='data'>
           <h3 className='text-center'>Personal Details</h3>
           {/* Check if userData.profile is correctly set */}
