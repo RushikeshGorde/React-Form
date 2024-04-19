@@ -54,7 +54,7 @@ export default function PreviewData() {
   );
 
   return (
-    <div>
+    <div className='perdet'>
       <h2>Preview Data</h2>
       {/* Display the profile image */}
       {/* <img src={userData.profile} alt="Profile" style={styles.image} /> */}
@@ -97,7 +97,7 @@ export default function PreviewData() {
       <br />
       {/* Submit button */}
       <Button variant="contained" onClick={() => setStep(3)} color="secondary">Edit</Button>
-      <Button variant="contained" onClick={submitData} color="primary">Submit</Button>
+       
     </div>
   );
 }
