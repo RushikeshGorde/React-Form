@@ -1,0 +1,83 @@
+
+h1{
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+ 
+  font-style: normal;
+}
+h2{
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+}
+.perdet{
+ background: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0PDw0NDQ0NDQ0NDQ0NDQ0NDQ8NDQ0NFREWFhURFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OFRAQFSsZFR0rKy0rKysrLSsrLS0rKy0tLSsrKy0tKystKy0tKy0tLS0tNy0rLS4tLSstLSstKy0rK//AABEIAKgBLAMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAACAwABBAUGB//EACgQAAMBAQACAQQBBAMBAAAAAAABAgMRBBIhEzFBUZFhcYGhIrHwFP/EABkBAAMBAQEAAAAAAAAAAAAAAAECAwQABf/EAB8RAQEBAQEBAQEBAAMAAAAAAAABAgMRIRIxUQQTQf/aAAwDAQACEQMRAD8A+ulMLhTR51bC2C2HSFslapA0xVWHYiietqZgkyOgOlNg/R/DFQfREsPoZS2GewFUC2BTG9DxbouWKbCllZSWNEMYmJgah5S2DQci0MkeVOwxBoWgkUINMvoKIzgRgMtgUM4NMVTCpiqY0LYqmA2SmD0eFsUwOhgtFIShbAphsXRSBS6ZXSUC2MRGwGyNlUcBdMDpdA8GkD17FEKIePY9D1VITaHUKsh0imSmhNyaBWhDUWzSGCyXXPgkLonqq5CCmQvUMpbSwKHepTgaaBn4HKD9A5krnRaLNDUiokYkWiVRINIiQSQ8TqItE4EkUhERGXwnBgAxdDaQmgwSrYqh1IVaHgEtldLoApIFGiMpBDyJUukLobSF0h4UpoCkNaBpDFpHC/UL1GTISM1QRZGlyCD0PHouldB6WjzK9CKYFDa4JuiO4rkDZnqusZbFepj0vmJ6d+4yUkUpD4TG1ERAhJnSlq+EcloIpn6BfqFMhcClFcwLVyg0ikg0jRErUSC4RIseROq4EkTgSRQquE4EQLirQqkPpANDQSHIq0anIq5HjqyWhfDTUgehTJKXMheoxInBvU7CnIupNDQukNKWs7RXqMpBZr8DegQoDUmhZoup/Qt0WxktCWzRpIr0Gidrs9LVC2ynR52o9GUyqE3RVWI0slrK2RVRU0KdB5mbeWiT40SFwGAyXidBSIi2USoiQQKDRXBatIKURIOUacwlqJB8KSCSKxOoWiBIpCVEiyFjFQnCywuLaK4GyhoJbQFSO4U0GCzOAHBqqRNlIWkNFBUAykiV1FUxNsOmKoeRO6CFKIkHKDaX07L5LtASgqJDaS5B9RzAD6mZ7FOgF1kbM2o35VbM9sbdITTRHTXzyHo3NmWdRk3+zH1avz8dCKD6ZcrNEsyfqo6z4snSmQ4ByMQuRiL8yUcobKAgajVlHVRIvhOkKQiFlFjwtWWUi0OCwgUEcAWVwIgRCUWyho4FiKRo4K0krlLdIYFIa0BSKxntIsU6GaLrBmByeqSGSi/UKUTtPBJEaCF3QsdaXbFe5etGf2KTKN2Z9f8AQrTcw/XF6bE7zerzsb1p0X5WqXF3558mdacXTLto22zPrLfzjT9QKbMcMbFmLrluzPjpeNp88N06HIwv5/k1ToYNZ8qXTn7W73GSzFNmjOxZGfWfGmUMkVLDVGrmhTpDTEqglRoidhvSxaYaY8LYIsoseEq0WgehIcFlgl9CCEKIFyFEIMCIrWfyFwv+g8qeoytAND7gW5Kys9jPUFKR7kBoNpZC2imwqYjTTgJPXW+DdiL0FXqK9i+ebNvqO7F9KZRT8o/pwcvLXH/5sGvKf45/tnMz0X2HzXTtYkr2MarcvN/a/wBhPVM5dV9zRjonwx98ST2PW/4tt/rX7jM9DFdfP3GYswbz8elmOlnRpzswywvqNGLeRufXSVjI1OZHkfyOz1JeJa5OrnuOnbpyVsV/9K/BbERvD1250GTZycfKZry2T/ZaIb5WN80NlmWKHRQ0rNqHpk6L6TpSVOwxMMVLC9ikJRkA9i/YICID0vozlkB6X0IURYHSq0GkJac0mvkQ0A9QXoUkR1YKhGlBVZl1saRK6DroYN9Q9bZi1ovjDL12NaDIZjVDlfwX8ZjnQqtBdaGatvkaR1rzXjw38m/PPi/qB42ZoaB0vtezyrn7L5YMU/2N3+Wys8f2S1PZ9b+PSy/B4ptnRxnhmxXDp+Jh+X/gw9sPTx0+CiDNvokzZ5VeqOH5Gr+TJ/0+tXO+mPyOV3psy8ueff8AwcG7KWj/AGDX/HXv5r0F+WiT5P6OJOj/AC2aMtf5/wCiGuf5dMz/AMd7Dd/g6eF/16eb8fc6vi6/Yn+mbvzdzOjTFHOw06bc2Pn68vZ/S+i/dL7C6svIhT/cnsImg+lYSw5UWqFJl+w5TlRfsI9iewQ9O9gkxCYaZwUyqFNkpgNj5S0qmC2SmLbKxn0l0Z9GNpibHiOqy6GLVm7Ywal8M+4X0t2Iu/0U2y8iK9dTHV/I+0ZapdGjvF4wFebNk5A3BHV9r1sT4xPJFeppebJ9IWtGd2fwrCP+S/ujtpqV8c+DmZzxr+5N9GQ6Y/Tbx6f6Dzt+9ONvfTdt2hM+P/kbPOZjZO3+McZN/Ye8phfPyzU0pX9TDvYusfpSdfCtNSZ6mXWiRRk7cvG3j09jqZ7HU8DZ/s4OVHS8PXhg1zU6eWPW+Ja4a/rfo4Xj+R9jbnp0rjn48TrProLQNMy5s0Sx78Q8NkqrBdC6o6f11hy1GKzGmOii/iNPTCQuWG2Ai+lqhfsTo0LRugKsXVC6seQmjfYpilRbspIz6XTFUyrsU7KZiOlaGLyF/BrdGLy77xFsf1LUY2vkOZbK6W6NCFhW3P2YaS792atr78fgztD5ha7SzBrE1qAvQw3T18xg+gU8jf6A1mD9KOdUGbVHT0yM95BlUzrxzqkB1z7GzTIRcDf1adbP4x6dMPks6OpzfJQ8iudf6waMkMK5KmSfTHrdx6tGdG3xqMOcm/CTHrjF9dvjr+LR1PHZyfEn7HWwEuWHrpvyHJmeGE7JXKEproVVgVYDY2c+CdNDZsyyMV8KEsbvbiArUy1t1IH3BMksafqhLUye4L0Kfklab0FuzNWoutimcpbbPqAPUxvYGtikyyarVWoqtjHewi9iswja23uZNNemetgPcpnPgX6erKuxH1AaspE7BXQHsKqwPcrEK9n6l+pCHm17OU9SepCCmBUCbzIQ4WfTIya5EIUhpWLbExa+MQhSVbNZq8cpeMQh1audOz8c144FkM+lrXR8fPh0MkUQlWfdaEy+lEJ0kQnCEBHWr6U2QgxPVIvpCD5hdUNNirohCkidpF6Ca0IQrmIdKB6AVoQhWRj1Sb0E1oUQrmJ2hdle5CDeD6F2BVkINInqgdA9IQpELX//2Q==);
+ background-repeat: no-repeat;
+ background-size: 100% 100%;
+
+}
+
+.bar{
+ margin-left: 40%;
+}
+.Personal {
+  width: 30%;
+margin-left: 35%;
+height: 75%;
+}
+.se{
+  width: 34%;
+  height: 265px;
+  position: absolute;
+  top: 40%;
+}
+.two{
+  height: 100vh;
+}
+.three{
+  height: 120vh;
+
+}
+.pernal-2, .Educat {
+
+    width: 35%;
+  
+    margin-left: 31%;
+    margin-top: 0%;
+    position: absolute;
+    top: 15%;
+}
+.Educat {
+
+    width: 35%;
+  
+    margin-left: 31%;
+    margin-top: 5%;
+    position: absolute;
+    top: 15%;
+}
+iframe{
+  
+    position: absolute;
+    left: 25%;
+    background: white;
+}
+.pd{
+  position: absolute;
+    left: 60%;
+    top: 26%;
+    color: wheat;
+}
+@media only screen and (max-width: 600px) {
+  .Personal {
+    width: 84%;
+    margin-left: 3%;
+}
+.se {
+  width: 6%;
+  height: 265px;
+  position: absolute;
+  top: 28%;
+}
+}
